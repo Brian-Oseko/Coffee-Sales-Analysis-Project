@@ -41,7 +41,7 @@ To prepare the data for analysis, I performed the following tasks:
     - Slicers
  
       
-  ![sales_by_country_bar_chart](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/ccbe9f60-073f-4621-9c8d-e4ca7d1cd895)
+   ![slicers](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/063dfe08-5301-4f52-95ae-51c43a10d393)
 
 
 - Sale by Country Pivot Table
