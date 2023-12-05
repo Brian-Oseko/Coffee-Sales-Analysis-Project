@@ -8,7 +8,7 @@ In this Excel portfolio project, I explore coffee sales over the past four years
 - 📈 Top 5 Customers Over Time
 
 ## Data Sources 
-The dataset used for this analysis is the 'coffee_Data.xlsx' file. The dataset comprises three sheets: orders, customers, and products.
+The dataset used for this analysis is the 'coffee_Data.xlsx' file. It comprises three sheets: orders, customers, and products.
 
 ## Tools
 - Excel
