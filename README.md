@@ -30,17 +30,41 @@ To prepare the data for analysis, I performed the following tasks:
 ## Data Analysis
 - Sales Over Time Pivot Table
     - Line Chart
+  
+  ![Sales_over_time_line_chart](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/bc5bf2aa-1b39-4c0e-a476-54c3211cc768)
+
+      
     - Timeline
+  
+  ![timeline](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/51fbfb9c-91cf-4ff0-addc-f6b7027e1aa2)
+      
     - Slicers
+ 
+      
+  ![sales_by_country_bar_chart](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/ccbe9f60-073f-4621-9c8d-e4ca7d1cd895)
+
+
 - Sale by Country Pivot Table
-    -  Bar Chart 
+    -  Bar Chart
+      
+  ![sales_by_country_bar_chart](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/66fca126-bba1-4450-9d56-d647beb03391)
+
+
 - Top 5 Customers Pivot Table
     - Bar Chart
-- Final Interactive dashboard
+ 
+      
+![Top_5_customers_bar_chart](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/3a531f72-b6d6-4e0f-a2c2-5da5549c28da)
+
+
+- Final Interactive Dashboard
+
 
 ## Results, Findings and Recommendations
-From the interactive dashboard, one can easily determine sales anytime from 2019 to 2022. Based on country, top 5 customers and more:
 
+![interactive_dashboard](https://github.com/Brian-Oseko/Coffee-Sales-Analysis-Project/assets/151272645/72b71705-1228-473b-8b35-262beb6e45e7)
+
+From the interactive dashboard, one can easily determine sales at any time from 2019 to 2022; based on country, coffee type, top 5 customers, and more.
 
 
 
