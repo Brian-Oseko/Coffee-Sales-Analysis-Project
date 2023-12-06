@@ -10,7 +10,7 @@ In this Excel portfolio project, I explore coffee sales over the past four years
 Here is a walkthrough: https://www.youtube.com/watch?v=2mZPWwcD8OI&t=1372s
 
 ## Data Sources 
-The dataset used for this analysis is the 'coffee_Data.xlsx' file. It comprises three sheets: orders, customers, and products.
+The dataset used for this analysis is the 'coffee_Data.xlsx' file. It comprises three sheets: orders, customers, and products. It is included in this repository. 
 
 ## Tools
 - Excel
