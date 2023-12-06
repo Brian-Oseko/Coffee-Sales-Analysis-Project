@@ -1,4 +1,4 @@
-# Excel Coffee Sales Analysis Project
+# Excel Coffee Sales Analysis 
 
 ## Project Overview
 
@@ -6,6 +6,8 @@ In this Excel portfolio project, I explore coffee sales over the past four years
 - ☕ Sales by Coffee Type/Roast Type Over Time
 - 🌐 Sales by Country
 - 📈 Top 5 Customers Over Time
+
+Here is a walkthrough: https://www.youtube.com/watch?v=2mZPWwcD8OI&t=1372s
 
 ## Data Sources 
 The dataset used for this analysis is the 'coffee_Data.xlsx' file. It comprises three sheets: orders, customers, and products.
